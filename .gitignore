@@ -1,1 +1,35 @@
-/target
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.idea/artifacts/
+.idea/compiler.xml
+.idea/copyright/
+.idea/dictionaries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/ofs.iml
+.idea/vcs.xml
+.idea/workspace.xml
+ofs.biz/ofs.biz.iml
+ofs.dao/ofs.dao.iml
+ofs.model/ofs.model.iml
+ofs.service/ofs-service.iml
+ofs.web/ofs.web.iml
+
+ofs.biz/target/
+ofs.dao/target/
+ofs.model/target/
+ofs.service/target/
+ofs.web/target/
+.project
+.settings
+*.classpath
+.DS_Store
+ofs.biz/src/main/resources/autoconfig/
+ofs.web/src/main/resources/autoconfig/
